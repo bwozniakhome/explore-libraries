@@ -3,7 +3,7 @@
 #' ---
 
 #' Which libraries does R search for packages?
-
+#blah blah blah
 # try .libPaths(), .Library
 .libPaths()
 .Library
